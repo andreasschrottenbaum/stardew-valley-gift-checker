@@ -3,12 +3,12 @@ import citizens from './../data/citizens.json'
 
 //@ts-ignore
 function CitizenList(props) {
-  const style: 'small' | 'big' = props.style || 'big'
+  const display: 'small' | 'big' = props.display || 'big'
 
   const elements = citizens.map((citizen, index) => (
     <li key={index}>
       <figure>
-        <img src={citizen.image[style]} alt={citizen.name} />
+        <img src={citizen.image[display]} alt={citizen.name} />
         <figcaption>{citizen.name}</figcaption>
       </figure>
     </li>

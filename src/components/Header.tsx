@@ -7,7 +7,7 @@ function Header() {
     <header className='svgc-header'>
       <img src='/logo.png' alt='Stardew Valley Logo' />
 
-      <CitizenList style='small' />
+      <CitizenList display={'small'} />
     </header>
   )
 }
