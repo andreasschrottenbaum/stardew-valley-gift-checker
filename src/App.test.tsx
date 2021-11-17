@@ -1,9 +1,11 @@
-import React from 'react';
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import { render, screen } from '@testing-library/react'
+import App from './App'
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+beforeEach(() => {
+  render(<App />)
+})
+
+test('shows logo somewhere on the page', () => {
+  const logoElement = document.querySelector('img[src="/logo.png"]')
+  expect(logoElement).toBeInTheDocument()
+})

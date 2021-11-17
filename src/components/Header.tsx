@@ -1,9 +1,13 @@
-import './Header.css'
+import './Header.scss'
+
+import CitizenList from './CitizenList'
 
 function Header() {
   return (
     <header className='svgc-header'>
-      <h1>SVGC header</h1>
+      <img src='/logo.png' alt='Stardew Valley Logo' />
+
+      <CitizenList style='small' />
     </header>
   )
 }
