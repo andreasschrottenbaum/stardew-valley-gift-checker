@@ -14,7 +14,7 @@ function CitizenList(props) {
     </li>
   ))
 
-  return <ul>{elements}</ul>
+  return <ul className='citizens'>{elements}</ul>
 }
 
 export default CitizenList

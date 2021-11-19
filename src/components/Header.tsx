@@ -1,13 +1,17 @@
 import './Header.scss'
+import FileSelect from './FileSelect'
 
-import CitizenList from './CitizenList'
-
-function Header() {
+//@ts-ignore
+function Header({ setPlayer }) {
   return (
     <header className='svgc-header'>
-      <img src='/logo.png' alt='Stardew Valley Logo' />
+      <img src='/logo.png' width='125' height='57' alt='Stardew Valley Logo' />
 
-      <CitizenList display={'small'} />
+      <h1>
+        <span className='visually-hidden'>Stardew Valley</span> Gift Checker
+      </h1>
+
+      <FileSelect onUpdate={setPlayer} />
     </header>
   )
 }

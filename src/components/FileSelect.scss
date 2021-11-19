@@ -1,0 +1,16 @@
+.svgc-file-input {
+  position: relative;
+
+  // TODO: style upload button
+  &::before {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    content: 'Select Save File';
+    color: black;
+    background: red;
+  }
+}

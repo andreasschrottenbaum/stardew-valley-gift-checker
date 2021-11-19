@@ -1,5 +1,17 @@
 .svgc-header {
+  margin-top: var(--content-gap);
+
   display: flex;
-  max-height: 2rem;
   flex-direction: row;
+  align-items: center;
+  gap: var(--content-gap);
+
+  color: white;
+
+  code {
+    color: black;
+    background: white;
+    padding: 0 0.5em;
+    font-weight: bold;
+  }
 }

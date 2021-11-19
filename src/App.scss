@@ -1,5 +1,6 @@
 @import './styles/reset';
 @import './styles/variables';
+@import './styles/utilities';
 
 :root {
   --content-gap: #{$gap};
@@ -7,10 +8,11 @@
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 var(--content-gap);
   font: 16px/1.2 system-ui;
 
   background-image: url('https://de.stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/stardewbackground.png');
   background-size: cover;
+  background-position: center;
   background-attachment: fixed;
 }
