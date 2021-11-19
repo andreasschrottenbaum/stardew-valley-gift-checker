@@ -2078,6 +2078,7 @@ const trash = [
   },
 ]
 
+// These items are not linked in any category on the Frienship Wiki page, but mentioned directly
 const unsorted = {
   loved: [
     {
@@ -2391,3 +2392,28 @@ const gifts = {
 }
 
 export default gifts
+
+export {
+  artisanGoods,
+  cooking,
+  flowers,
+  foragedMinerals,
+  fruitTreeFruits,
+  gems,
+  vegetables,
+  buildingMaterials,
+  artifacts,
+  bombs,
+  decor,
+  fences,
+  fertilizer,
+  geodes,
+  seeds,
+  sprinklers,
+  tackle,
+  minedMetalGoods,
+  bait,
+  fossils,
+  monsterLoot,
+  unsorted,
+}

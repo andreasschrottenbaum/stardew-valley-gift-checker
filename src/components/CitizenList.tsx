@@ -1,5 +1,5 @@
 // import React from 'react'
-import citizens from './../data/citizens.json'
+import citizens from '../data/citizens.js'
 
 //@ts-ignore
 function CitizenList(props) {
