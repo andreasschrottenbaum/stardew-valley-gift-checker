@@ -4,6 +4,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Alex.png/80px-Alex.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -11,6 +22,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bd/Elliott.png/80px-Elliott.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -18,6 +40,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Harvey.png/80px-Harvey.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -25,6 +58,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Sam.png/80px-Sam.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -32,6 +76,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a8/Sebastian.png/80px-Sebastian.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -39,6 +94,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8b/Shane.png/80px-Shane.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -46,6 +112,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Abigail.png/80px-Abigail.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -53,6 +130,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/28/Emily.png/80px-Emily.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -60,6 +148,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Haley.png/80px-Haley.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": [74]
     }
   },
   {
@@ -67,6 +166,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e6/Leah.png/80px-Leah.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -74,6 +184,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Maru.png/80px-Maru.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -81,6 +202,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ab/Penny.png/80px-Penny.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -88,6 +220,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Caroline.png/80px-Caroline.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -95,6 +238,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Clint.png/80px-Clint.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -102,6 +256,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Demetrius.png/80px-Demetrius.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -109,6 +274,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Dwarf.png/80px-Dwarf.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -116,6 +292,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8e/Evelyn.png/80px-Evelyn.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -123,6 +310,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/George.png/80px-George.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -130,6 +328,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Gus.png/80px-Gus.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -137,6 +346,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/55/Jas.png/80px-Jas.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -144,6 +364,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/41/Jodi.png/80px-Jodi.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -151,6 +382,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Kent.png/80px-Kent.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -158,6 +400,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/71/Krobus.png/80px-Krobus.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -165,6 +418,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Leo.png/80px-Leo.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -172,6 +436,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Lewis.png/80px-Lewis.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -179,6 +454,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Linus.png/80px-Linus.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -186,6 +472,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Marnie.png/80px-Marnie.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -193,6 +490,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Pam.png/80px-Pam.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -200,6 +508,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Pierre.png/80px-Pierre.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -207,6 +526,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Robin.png/80px-Robin.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -214,6 +544,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Sandy.png/80px-Sandy.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -221,6 +562,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Vincent.png/80px-Vincent.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {
@@ -228,6 +580,17 @@
     "image": {
       "small": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
       "big": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Willy.png/80px-Willy.png"
+    },
+    "birthday": {
+      "month": "",
+      "day": 1
+    },
+    "gifts": {
+      "loves": [],
+      "likes": [],
+      "neutral": [],
+      "dislikes": [],
+      "hates": []
     }
   },
   {

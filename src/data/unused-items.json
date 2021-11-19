@@ -1,0 +1,678 @@
+[
+  {
+    "id": 16,
+    "name": "Wild Horseradish"
+  },
+  {
+    "id": 18,
+    "name": "Daffodil"
+  },
+  {
+    "id": 20,
+    "name": "Leek"
+  },
+  {
+    "id": 22,
+    "name": "Dandelion"
+  },
+  {
+    "id": 30,
+    "name": "Lumber"
+  },
+  {
+    "id": 71,
+    "name": "Trimmed Lucky Purple Shorts"
+  },
+  {
+    "id": 73,
+    "name": "Golden Walnut"
+  },
+  {
+    "id": 79,
+    "name": "Secret Note"
+  },
+  {
+    "id": 88,
+    "name": "Coconut"
+  },
+  {
+    "id": 90,
+    "name": "Cactus Fruit"
+  },
+  {
+    "id": 94,
+    "name": "Spirit Torch"
+  },
+  {
+    "id": 102,
+    "name": "Lost Book"
+  },
+
+  {
+    "id": 159,
+    "name": "Crimsonfish"
+  },
+  {
+    "id": 160,
+    "name": "Angler"
+  },
+
+  {
+    "id": 163,
+    "name": "Legend Fish"
+  },
+
+  {
+    "id": 174,
+    "name": "Large Egg"
+  },
+  {
+    "id": 176,
+    "name": "Egg"
+  },
+  {
+    "id": 180,
+    "name": "Egg"
+  },
+  {
+    "id": 182,
+    "name": "Large Egg"
+  },
+  {
+    "id": 184,
+    "name": "Milk"
+  },
+  {
+    "id": 186,
+    "name": "Large Milk"
+  },
+  {
+    "id": 191,
+    "name": "Ornate Necklace"
+  },
+  {
+    "id": 252,
+    "name": "Rhubarb"
+  },
+  {
+    "id": 254,
+    "name": "Melon"
+  },
+  {
+    "id": 257,
+    "name": "Morel"
+  },
+  {
+    "id": 258,
+    "name": "Blueberry"
+  },
+  {
+    "id": 260,
+    "name": "Hot Pepper"
+  },
+  {
+    "id": 268,
+    "name": "Starfruit"
+  },
+  {
+    "id": 273,
+    "name": "Rice Shoot"
+  },
+  {
+    "id": 277,
+    "name": "Wilted Bouquet"
+  },
+  {
+    "id": 281,
+    "name": "Chanterelle"
+  },
+  {
+    "id": 282,
+    "name": "Cranberries"
+  },
+  {
+    "id": 283,
+    "name": "Holly"
+  },
+  {
+    "id": 289,
+    "name": "Ostrich Egg"
+  },
+  {
+    "id": 294,
+    "name": "Twig"
+  },
+  {
+    "id": 295,
+    "name": "Twig"
+  },
+  {
+    "id": 296,
+    "name": "Salmonberry"
+  },
+  {
+    "id": 301,
+    "name": "Grape Starter"
+  },
+  {
+    "id": 302,
+    "name": "Hops Starter"
+  },
+  {
+    "id": 326,
+    "name": "Dwarvish Translation Guide"
+  },
+  {
+    "id": 372,
+    "name": "Clam"
+  },
+  {
+    "id": 392,
+    "name": "Nautilus Shell"
+  },
+  {
+    "id": 393,
+    "name": "Coral"
+  },
+  {
+    "id": 394,
+    "name": "Rainbow Shell"
+  },
+  {
+    "id": 396,
+    "name": "Spice Berry"
+  },
+  {
+    "id": 398,
+    "name": "Grape"
+  },
+  {
+    "id": 400,
+    "name": "Strawberry"
+  },
+  {
+    "id": 404,
+    "name": "Common Mushroom"
+  },
+  {
+    "id": 406,
+    "name": "Wild Plum"
+  },
+  {
+    "id": 408,
+    "name": "Hazelnut"
+  },
+  {
+    "id": 410,
+    "name": "Blackberry"
+  },
+  {
+    "id": 412,
+    "name": "Winter Root"
+  },
+  {
+    "id": 413,
+    "name": "Blue Slime Egg"
+  },
+  {
+    "id": 414,
+    "name": "Crystal Fruit"
+  },
+  {
+    "id": 416,
+    "name": "Snow Yam"
+  },
+  {
+    "id": 417,
+    "name": "Sweet Gem Berry"
+  },
+  {
+    "id": 422,
+    "name": "Purple Mushroom"
+  },
+  {
+    "id": 427,
+    "name": "Tulip Bulb"
+  },
+  {
+    "id": 430,
+    "name": "Truffle"
+  },
+  {
+    "id": 433,
+    "name": "Coffee Bean"
+  },
+  {
+    "id": 434,
+    "name": "Stardrop"
+  },
+  {
+    "id": 436,
+    "name": "Goat Milk"
+  },
+  {
+    "id": 437,
+    "name": "Red Slime Egg"
+  },
+  {
+    "id": 438,
+    "name": "L. Goat Milk"
+  },
+  {
+    "id": 439,
+    "name": "Purple Slime Egg"
+  },
+  {
+    "id": 440,
+    "name": "Wool"
+  },
+  {
+    "id": 442,
+    "name": "Duck Egg"
+  },
+  {
+    "id": 444,
+    "name": "Duck Feather"
+  },
+  {
+    "id": 449,
+    "name": "Stone Base"
+  },
+  {
+    "id": 454,
+    "name": "Ancient Fruit"
+  },
+  {
+    "id": 458,
+    "name": "Bouquet"
+  },
+  {
+    "id": 460,
+    "name": "Mermaid's Pendant"
+  },
+  {
+    "id": 461,
+    "name": "Decorative Pot"
+  },
+  {
+    "id": 473,
+    "name": "Bean Starter"
+  },
+  {
+    "id": 516,
+    "name": "Small Glow Ring"
+  },
+  {
+    "id": 517,
+    "name": "Glow Ring"
+  },
+  {
+    "id": 518,
+    "name": "Small Magnet Ring"
+  },
+  {
+    "id": 519,
+    "name": "Magnet Ring"
+  },
+  {
+    "id": 520,
+    "name": "Slime Charmer Ring"
+  },
+  {
+    "id": 521,
+    "name": "Warrior Ring"
+  },
+  {
+    "id": 522,
+    "name": "Vampire Ring"
+  },
+  {
+    "id": 523,
+    "name": "Savage Ring"
+  },
+  {
+    "id": 524,
+    "name": "Ring of Yoba"
+  },
+  {
+    "id": 525,
+    "name": "Sturdy Ring"
+  },
+  {
+    "id": 526,
+    "name": "Burglar's Ring"
+  },
+  {
+    "id": 527,
+    "name": "Iridium Band"
+  },
+  {
+    "id": 528,
+    "name": "Jukebox Ring"
+  },
+  {
+    "id": 529,
+    "name": "Amethyst Ring"
+  },
+  {
+    "id": 530,
+    "name": "Topaz Ring"
+  },
+  {
+    "id": 531,
+    "name": "Aquamarine Ring"
+  },
+  {
+    "id": 532,
+    "name": "Jade Ring"
+  },
+  {
+    "id": 533,
+    "name": "Emerald Ring"
+  },
+  {
+    "id": 534,
+    "name": "Ruby Ring"
+  },
+  {
+    "id": 590,
+    "name": "Artifact Spot"
+  },
+  {
+    "id": 680,
+    "name": "Green Slime Egg"
+  },
+  {
+    "id": 682,
+    "name": "Mutant Carp"
+  },
+  {
+    "id": 715,
+    "name": "Lobster"
+  },
+  {
+    "id": 716,
+    "name": "Crayfish"
+  },
+  {
+    "id": 717,
+    "name": "Crab"
+  },
+  {
+    "id": 718,
+    "name": "Cockle"
+  },
+  {
+    "id": 719,
+    "name": "Mussel"
+  },
+  {
+    "id": 720,
+    "name": "Shrimp"
+  },
+  {
+    "id": 722,
+    "name": "Periwinkle"
+  },
+  {
+    "id": 723,
+    "name": "Oyster"
+  },
+  {
+    "id": 775,
+    "name": "Glacierfish"
+  },
+  {
+    "id": 788,
+    "name": "Lost Axe"
+  },
+  {
+    "id": 789,
+    "name": "Lucky Purple Shorts"
+  },
+  {
+    "id": 790,
+    "name": "Berry Basket"
+  },
+  {
+    "id": 798,
+    "name": "Midnight Squid"
+  },
+  {
+    "id": 799,
+    "name": "Spook Fish"
+  },
+  {
+    "id": 800,
+    "name": "Blobfish"
+  },
+  {
+    "id": 801,
+    "name": "Wedding Ring"
+  },
+  {
+    "id": 803,
+    "name": "Iridium Milk"
+  },
+  {
+    "id": 808,
+    "name": "Void Ghost Pendant"
+  },
+  {
+    "id": 809,
+    "name": "Movie Ticket"
+  },
+  {
+    "id": 810,
+    "name": "Crabshell Ring"
+  },
+  {
+    "id": 811,
+    "name": "Napalm Ring"
+  },
+  {
+    "id": 812,
+    "name": "Roe"
+  },
+  {
+    "id": 814,
+    "name": "Squid Ink"
+  },
+
+  {
+    "id": 829,
+    "name": "Ginger"
+  },
+  {
+    "id": 831,
+    "name": "Taro Tuber"
+  },
+  {
+    "id": 832,
+    "name": "Pineapple"
+  },
+  {
+    "id": 839,
+    "name": "Thorns Ring"
+  },
+  {
+    "id": 842,
+    "name": "Journal Scrap"
+  },
+  {
+    "id": 851,
+    "name": "Magma Cap"
+  },
+  {
+    "id": 857,
+    "name": "Tiger Slime Egg"
+  },
+  {
+    "id": 858,
+    "name": "Qi Gem"
+  },
+  {
+    "id": 859,
+    "name": "Lucky Ring"
+  },
+  {
+    "id": 860,
+    "name": "Hot Java Ring"
+  },
+  {
+    "id": 861,
+    "name": "Protection Ring"
+  },
+  {
+    "id": 862,
+    "name": "Soul Sapper Ring"
+  },
+  {
+    "id": 863,
+    "name": "Phoenix Ring"
+  },
+  {
+    "id": 864,
+    "name": "War Memento"
+  },
+  {
+    "id": 865,
+    "name": "Gourmet Tomato Salt"
+  },
+  {
+    "id": 866,
+    "name": "Stardew Valley Rose"
+  },
+  {
+    "id": 867,
+    "name": "Advanced TV Remote"
+  },
+  {
+    "id": 868,
+    "name": "Arctic Shard"
+  },
+  {
+    "id": 869,
+    "name": "Wriggling Worm"
+  },
+  {
+    "id": 870,
+    "name": "Pirate's Locket"
+  },
+  {
+    "id": 873,
+    "name": "Pina Colada"
+  },
+  {
+    "id": 875,
+    "name": "Ectoplasm"
+  },
+  {
+    "id": 876,
+    "name": "Prismatic Jelly"
+  },
+  {
+    "id": 880,
+    "name": "Combined Ring"
+  },
+  {
+    "id": 887,
+    "name": "Immunity Band"
+  },
+  {
+    "id": 888,
+    "name": "Glowstone Ring"
+  },
+  {
+    "id": 890,
+    "name": "Qi Bean"
+  },
+  {
+    "id": 892,
+    "name": "Warp Totem: Qi's Arena"
+  },
+  {
+    "id": 893,
+    "name": "Fireworks (Red)"
+  },
+  {
+    "id": 894,
+    "name": "Fireworks (Purple)"
+  },
+  {
+    "id": 895,
+    "name": "Fireworks (Green)"
+  },
+  {
+    "id": 896,
+    "name": "Galaxy Soul"
+  },
+  {
+    "id": 897,
+    "name": "Pierre's Missing Stocklist"
+  },
+  {
+    "id": 898,
+    "name": "Son of Crimsonfish"
+  },
+  {
+    "id": 899,
+    "name": "Ms. Angler"
+  },
+  {
+    "id": 900,
+    "name": "Legend II"
+  },
+  {
+    "id": 901,
+    "name": "Radioactive Carp"
+  },
+  {
+    "id": 902,
+    "name": "Glacierfish Jr."
+  },
+  {
+    "id": 911,
+    "name": "Horse Flute"
+  },
+  {
+    "id": 913,
+    "name": "Enricher"
+  },
+  {
+    "id": 915,
+    "name": "Pressure Nozzle"
+  },
+  {
+    "id": 922,
+    "name": "SupplyCrate"
+  },
+  {
+    "id": 923,
+    "name": "SupplyCrate"
+  },
+  {
+    "id": 924,
+    "name": "SupplyCrate"
+  },
+  {
+    "id": 925,
+    "name": "Slime Crate"
+  },
+  {
+    "id": 926,
+    "name": "Cookout Kit"
+  },
+  {
+    "id": 927,
+    "name": "Camping Stove"
+  },
+  {
+    "id": 928,
+    "name": "Golden Egg"
+  },
+  {
+    "id": 929,
+    "name": "Hedge"
+  }
+]
