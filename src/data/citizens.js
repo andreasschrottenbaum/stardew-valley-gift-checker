@@ -1039,6 +1039,7 @@ const citizens = [{
       ].includes(item.id)),
       // TBD: decrypt the wiki entry
       // ...CATEGORY.filter(item => [].includes(item.id))
+      ...unsorted.liked.filter(item => item.id === 773) // Life Elixir
     ],
     hates: [],
   },
