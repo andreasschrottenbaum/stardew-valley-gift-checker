@@ -85,6 +85,10 @@ const artisanGoods = [
     id: 308,
     name: 'Void Mayonnaise',
   },
+  {
+    id: 873,
+    name: 'Piña Colada',
+  },
 ]
 const cooking = [
   {
