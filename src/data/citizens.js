@@ -47,7 +47,6 @@ const citizens = [{
         218 // Tom Kha Soup
       ].includes(item.id)),
       ...fruitTreeFruits.filter(item => item.id === 637), // Pomegranate
-      ...fruitTreeFruits.filter(item => [637].includes(item.id))
     ],
     likes: [],
     neutral: [],
