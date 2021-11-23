@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/stardew-valley-gift-checker/static/css/main.a61a0339.chunk.css",
-    "main.js": "/stardew-valley-gift-checker/static/js/main.118e9236.chunk.js",
-    "main.js.map": "/stardew-valley-gift-checker/static/js/main.118e9236.chunk.js.map",
+    "main.css": "/stardew-valley-gift-checker/static/css/main.541abb82.chunk.css",
+    "main.js": "/stardew-valley-gift-checker/static/js/main.0942c02b.chunk.js",
+    "main.js.map": "/stardew-valley-gift-checker/static/js/main.0942c02b.chunk.js.map",
     "runtime-main.js": "/stardew-valley-gift-checker/static/js/runtime-main.96922b01.js",
     "runtime-main.js.map": "/stardew-valley-gift-checker/static/js/runtime-main.96922b01.js.map",
     "static/js/2.d8a22889.chunk.js": "/stardew-valley-gift-checker/static/js/2.d8a22889.chunk.js",
     "static/js/2.d8a22889.chunk.js.map": "/stardew-valley-gift-checker/static/js/2.d8a22889.chunk.js.map",
     "index.html": "/stardew-valley-gift-checker/index.html",
-    "static/css/main.a61a0339.chunk.css.map": "/stardew-valley-gift-checker/static/css/main.a61a0339.chunk.css.map",
+    "static/css/main.541abb82.chunk.css.map": "/stardew-valley-gift-checker/static/css/main.541abb82.chunk.css.map",
     "static/js/2.d8a22889.chunk.js.LICENSE.txt": "/stardew-valley-gift-checker/static/js/2.d8a22889.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.96922b01.js",
     "static/js/2.d8a22889.chunk.js",
-    "static/css/main.a61a0339.chunk.css",
-    "static/js/main.118e9236.chunk.js"
+    "static/css/main.541abb82.chunk.css",
+    "static/js/main.0942c02b.chunk.js"
   ]
 }
