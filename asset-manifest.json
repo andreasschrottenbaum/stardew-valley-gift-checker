@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stardew-valley-gift-checker/static/css/main.541abb82.chunk.css",
-    "main.js": "/stardew-valley-gift-checker/static/js/main.0942c02b.chunk.js",
-    "main.js.map": "/stardew-valley-gift-checker/static/js/main.0942c02b.chunk.js.map",
+    "main.js": "/stardew-valley-gift-checker/static/js/main.2ba1cbb5.chunk.js",
+    "main.js.map": "/stardew-valley-gift-checker/static/js/main.2ba1cbb5.chunk.js.map",
     "runtime-main.js": "/stardew-valley-gift-checker/static/js/runtime-main.96922b01.js",
     "runtime-main.js.map": "/stardew-valley-gift-checker/static/js/runtime-main.96922b01.js.map",
     "static/js/2.d8a22889.chunk.js": "/stardew-valley-gift-checker/static/js/2.d8a22889.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.96922b01.js",
     "static/js/2.d8a22889.chunk.js",
     "static/css/main.541abb82.chunk.css",
-    "static/js/main.0942c02b.chunk.js"
+    "static/js/main.2ba1cbb5.chunk.js"
   ]
 }
