@@ -2,6 +2,7 @@ import './CitizenList.scss'
 
 import citizens from '../data/citizens.js'
 import generalGifts from '../data/all-gifts'
+import { useState } from 'react'
 
 //@ts-ignore
 function CitizenList(props) {
@@ -113,14 +114,20 @@ function CitizenList(props) {
             <div className='gift-list'>
               {[
                 filteredGifts.loves.map((item) => (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    title={item.name}
-                    width='48'
-                    height='48'
+                  <a
+                    href={item.wiki}
+                    target='_blank'
+                    rel='noreferrer'
                     key={citizen.name + '_' + item.id}
-                  />
+                  >
+                    <img
+                      src={item.image}
+                      alt={item.name}
+                      title={item.name}
+                      width='48'
+                      height='48'
+                    />
+                  </a>
                 )),
               ]}
             </div>
@@ -132,14 +139,20 @@ function CitizenList(props) {
             <div className='gift-list'>
               {[
                 filteredGifts.likes.map((item) => (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    title={item.name}
-                    width='48'
-                    height='48'
+                  <a
+                    href={item.wiki}
+                    target='_blank'
+                    rel='noreferrer'
                     key={citizen.name + '_' + item.id}
-                  />
+                  >
+                    <img
+                      src={item.image}
+                      alt={item.name}
+                      title={item.name}
+                      width='48'
+                      height='48'
+                    />
+                  </a>
                 )),
               ]}
             </div>
@@ -151,14 +164,20 @@ function CitizenList(props) {
             <div className='gift-list'>
               {[
                 filteredGifts.neutral.map((item) => (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    title={item.name}
-                    width='48'
-                    height='48'
+                  <a
+                    href={item.wiki}
+                    target='_blank'
+                    rel='noreferrer'
                     key={citizen.name + '_' + item.id}
-                  />
+                  >
+                    <img
+                      src={item.image}
+                      alt={item.name}
+                      title={item.name}
+                      width='48'
+                      height='48'
+                    />
+                  </a>
                 )),
               ]}
             </div>
@@ -170,14 +189,20 @@ function CitizenList(props) {
             <div className='gift-list'>
               {[
                 filteredGifts.dislikes.map((item) => (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    title={item.name}
-                    width='48'
-                    height='48'
+                  <a
+                    href={item.wiki}
+                    target='_blank'
+                    rel='noreferrer'
                     key={citizen.name + '_' + item.id}
-                  />
+                  >
+                    <img
+                      src={item.image}
+                      alt={item.name}
+                      title={item.name}
+                      width='48'
+                      height='48'
+                    />
+                  </a>
                 )),
               ]}
             </div>
@@ -189,14 +214,20 @@ function CitizenList(props) {
             <div className='gift-list'>
               {[
                 filteredGifts.hates.map((item) => (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    title={item.name}
-                    width='48'
-                    height='48'
+                  <a
+                    href={item.wiki}
+                    target='_blank'
+                    rel='noreferrer'
                     key={citizen.name + '_' + item.id}
-                  />
+                  >
+                    <img
+                      src={item.image}
+                      alt={item.name}
+                      title={item.name}
+                      width='48'
+                      height='48'
+                    />
+                  </a>
                 )),
               ]}
             </div>
