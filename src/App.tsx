@@ -5,14 +5,14 @@ import CitizenList from './components/CitizenList'
 import Header from './components/Header'
 
 // import gifts from './data/all-gifts'
-import citizens from './data/citizens'
+// import citizens from './data/citizens'
 
 function App() {
   // const [player, setPlayer] = useState(localStorage.getItem('player') || '')
 
   //@ts-ignore
   // console.log({ player, setPlayer })
-  console.log(citizens)
+  // console.log(citizens)
 
   // const handlePlayerChange = (event: ChangeEvent) => {
   //   //@ts-ignore

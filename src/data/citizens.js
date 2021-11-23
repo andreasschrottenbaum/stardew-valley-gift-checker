@@ -1,10 +1,14 @@
 import {
   artisanGoods,
+  buildingMaterials,
   cooking,
+  fish,
   flowers,
   foragedMinerals,
   fruitTreeFruits,
   gems,
+  geodes,
+  minedMetalGoods,
   unsorted,
   vegetables
 } from "./all-gifts"
@@ -47,6 +51,10 @@ const citizens = [{
         218 // Tom Kha Soup
       ].includes(item.id)),
       ...fruitTreeFruits.filter(item => item.id === 637), // Pomegranate
+      ...unsorted.neutral.filter(item => [
+        444, // Duck Feather
+        814  // Squid Ink
+      ].includes(item.id))
     ],
     likes: [],
     neutral: [],
@@ -78,7 +86,9 @@ const citizens = [{
       ].includes(item.id)),
       ...cooking.filter(item => item.id === 237) // Super Meal
     ],
-    likes: [],
+    likes: [
+      ...unsorted.neutral.filter(item => item.id === 444) // Duck Feather
+    ],
     neutral: [],
     dislikes: [
       ...artisanGoods.filter(item => [
@@ -98,9 +108,16 @@ const citizens = [{
         206, // Pizza
         222, // Rhubarb Pie
         232, // Rice Pudding
+        216, // Bread
       ].includes(item.id))
     ],
-    hates: [],
+    hates: [
+      ...unsorted.neutral.filter(item => [
+        393, // Coral
+        392, // Nautilus Shell
+        394  // Rainbow Shell
+      ].includes(item.id))
+    ],
   },
 },
 {
@@ -217,14 +234,17 @@ const citizens = [{
         904, // Banana Pudding
         611, // Blackberry Cobbler
         220, // Chocolate Cake
-        226 // Spicy Eel
+        226  // Spicy Eel
       ].includes(item.id)),
-      ...vegetables.filter(item => item.id === 276) // Pumpkin
+      ...vegetables.filter(item => item.id === 276), // Pumpkin
+      ...fish.filter(item => item.id === 128) // Pufferfish
     ],
     likes: [],
     neutral: [],
     dislikes: [...vegetables.filter(item => item.id !== 276)], // All vegetables except Pumpkin
-    hates: [],
+    hates: [
+      ...buildingMaterials.filter(item => item.id === 330) // Clay
+    ],
   },
 },
 {
@@ -241,7 +261,8 @@ const citizens = [{
     loves: [
       ...artisanGoods.filter(item => item.id === 428), // Cloth
       ...cooking.filter(item => item.id === 241), // Survival Burger
-      ...gems.filter(item => item.id !== 72) // All Gems except Diamond (universally liked)
+      ...gems.filter(item => item.id !== 72), // All Gems except Diamond (universally liked)
+      ...unsorted.neutral.filter(item => item.id === 440) // Wool
     ],
     likes: [],
     neutral: [],
@@ -315,7 +336,9 @@ const citizens = [{
         196, // Salad
         606, // Stir Fry
         200 // Vegetable Medley
-      ].includes(item.id))
+      ].includes(item.id)),
+      ...unsorted.neutral.filter(item => item.id === 430) // Truffle
+
     ],
     likes: [],
     neutral: [],
@@ -332,14 +355,16 @@ const citizens = [{
         221, // Pink Cake
         232, // Rice Pudding
         241, // Survival Burger
-        229 // Tortilla
+        229, // Tortilla
+        194  // Fried Egg
       ].includes(item.id))
     ],
     hates: [
       ...cooking.filter(item => [
         210, // Hashbrowns (Coincidence that the double is 420?)
         211, // Pancakes
-        206 // Pizza
+        206, // Pizza
+        216  // Bread
       ].includes(item.id))
     ],
   },
@@ -374,7 +399,8 @@ const citizens = [{
       ...artisanGoods.filter(item => [
         340, // Honey
         342 // Pickles
-      ].includes(item.id))
+      ].includes(item.id)),
+      ...unsorted.neutral.filter(item => item.id === 430) // Truffle
     ],
   },
 },
@@ -407,6 +433,10 @@ const citizens = [{
       ...cooking.filter(item => [
         456, // Algae Soup
         457  // Pale Broth
+      ].includes(item.id)),
+      ...unsorted.neutral.filter(item => [
+        444, // Duck Feather
+        440  // Wool
       ].includes(item.id))
     ],
     hates: [
@@ -416,7 +446,8 @@ const citizens = [{
         303, // Pale Ale
         873, // Piña Colada
         348  // Wine
-      ].includes(item.id))
+      ].includes(item.id)),
+      ...vegetables.filter(item => item.id === 304) // Hops
     ],
   },
 },
@@ -470,9 +501,26 @@ const citizens = [{
         605, // Artichoke Dip
         649 // Fiddlehead Risotto
       ].includes(item.id)),
+      ...minedMetalGoods.filter(item => [
+        336, // Gold Bar
+        337, // Iridium Bar
+      ].includes(item.id)),
+      ...geodes.filter(item => item.id === 749) // Omni Geode
     ],
-    likes: [],
-    neutral: [],
+    likes: [
+      ...minedMetalGoods.filter(item => [
+        334, // Copper Bar
+        335, // Iron Bar
+      ].includes(item.id)),
+    ],
+    neutral: [
+      ...minedMetalGoods.filter(item => [
+        382, // Coal
+        384, // Gold Ore
+        386, // Iridium Ore
+        338  // Refined Quartz
+      ].includes(item.id)),
+    ],
     dislikes: [
       ...flowers.filter(item => item.id !== 376) // All Flowers (except Poppy, universally hated)
     ],
@@ -498,7 +546,12 @@ const citizens = [{
       ].includes(item.id)),
     ],
     likes: [],
-    neutral: [],
+    neutral: [
+      ...fish.filter(item => ![
+        142, // Carp
+        721  // Snail
+      ].includes(item.id)) // Demetrius is neutral toward All Fish (except Carp & Snail)
+    ],
     dislikes: [],
     hates: [],
   },
@@ -557,7 +610,11 @@ const citizens = [{
         226, // Spicy Eel
         219 // Trout Soup
       ].includes(item.id)),
-      ...vegetables.filter(item => item.id === 248) // Garlinc
+      ...vegetables.filter(item => item.id === 248), // Garlinc
+      ...unsorted.neutral.filter(item => [
+        372, // Clam
+        393  // Coral
+      ].includes(item.id))
     ],
   },
 },
@@ -749,9 +806,15 @@ const citizens = [{
   },
   gifts: {
     loves: [
-      ...cooking.filter(item => item.id === 906) // Poi
+      ...cooking.filter(item => item.id === 906), // Poi
+      ...unsorted.neutral.filter(item => item.id === 444) // Duck Feather
     ],
-    likes: [],
+    likes: [
+      ...unsorted.neutral.filter(item => [
+        392, // Nautilus Shell
+        394  // Rainbow Shell
+      ].includes(item.id))
+    ],
     neutral: [
       ...artisanGoods.filter(item => item.id === 395) // Coffee
     ],
@@ -773,9 +836,10 @@ const citizens = [{
         346, // Beer
         379, // Mead
         303, // Pale Ale
-        873, // Pina Colada (no ID)//TBD
-        348 // Wine
-      ].includes(item.id))
+        873, // Pina Colada
+        348  // Wine
+      ].includes(item.id)),
+      ...vegetables.filter(item => item.id === 304) // Hops
       // TBD: According to Wiki: Triple Shot Espresso as well? (is already in dislikes)
     ],
   },
@@ -962,7 +1026,9 @@ const citizens = [{
         402  // Sweet Pea
       ].includes(item.id))
     ],
-    likes: [],
+    likes: [
+      ...unsorted.neutral.filter(item => item.id === 440) // Wool
+    ],
     neutral: [],
     dislikes: [],
     hates: [],

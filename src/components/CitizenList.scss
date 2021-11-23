@@ -1,5 +1,47 @@
 .svgc-citizen-list {
-  table tr {
-    vertical-align: top;
+  list-style: none;
+  padding: 0;
+
+  li {
+    display: flex;
+    align-items: center;
+  }
+
+  figure {
+    display: inline-block;
+    text-align: center;
+    width: 13ch;
+
+    img {
+      margin: 0 auto;
+    }
+  }
+
+  h4 {
+    margin-bottom: 0.5em;
+  }
+
+  .gift img {
+    display: inline-block;
+  }
+
+  .gifts {
+    display: flex;
+
+    .gift {
+      flex: 1 1 0;
+      max-height: 9em;
+    }
+
+    .gift-list {
+      max-height: 100%;
+      overflow-y: auto;
+    }
+
+    img {
+      max-width: 1.5em;
+      height: auto;
+      margin-right: 0.5em;
+    }
   }
 }

@@ -1,12 +1,14 @@
 import './FileSelect.scss'
 
-import { ChangeEvent } from 'react'
+import { ChangeEvent, useState } from 'react'
 import { parseString } from 'xml2js'
 import { copyToClipboard } from '../helpers/copy2clipboard'
+import classNames from 'classnames'
 
 //@ts-ignore
 function FileSelect({ onUpdate }) {
   const saveDir = '%APPDATA%/StardewValley/Saves'
+  let [showMessage, setShowMessage] = useState(false)
 
   function readFile(event: ChangeEvent) {
     //@ts-ignore
@@ -31,8 +33,19 @@ function FileSelect({ onUpdate }) {
 
   function copyPath() {
     //TODO: trigger a message somewhere
-    copyToClipboard(saveDir)
+    copyToClipboard(saveDir)?.then(() => {
+      setShowMessage(true)
+
+      setTimeout(() => {
+        setShowMessage(false)
+      }, 5000)
+    })
   }
+
+  const messageClasses = classNames({
+    'svgc-copy-notification': true,
+    visible: !!showMessage,
+  })
 
   return (
     <div>
@@ -42,6 +55,9 @@ function FileSelect({ onUpdate }) {
           Get the save file from <code onClick={copyPath}>${saveDir}</code>,
           select the savestate you want and upload the latest file
         </small>
+      </div>
+      <div className={messageClasses}>
+        Copied Path <strong>{saveDir}</strong> to Clipboard
       </div>
     </div>
   )
