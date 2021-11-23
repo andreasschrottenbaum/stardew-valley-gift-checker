@@ -19,8 +19,8 @@ function App() {
   //   setPlayer(event.target?.value)
   // }
 
-  const changePlayer = (newPlayer: any) => {
-    console.log('PLAYER SELECT', newPlayer[0].name)
+  const changePlayer = (response) => {
+    console.log('FILE ANALYZED LOCALLY', response)
   }
 
   return (

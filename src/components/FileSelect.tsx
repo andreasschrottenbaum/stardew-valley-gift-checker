@@ -22,9 +22,7 @@ function FileSelect({ onUpdate }) {
       parseString(this.result?.toString() || '', (error, result) => {
         if (!result?.SaveGame?.player) return
 
-        const players = result.SaveGame.player
-
-        onUpdate(players)
+        onUpdate(result)
       })
     }
 

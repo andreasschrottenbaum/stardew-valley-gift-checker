@@ -5,12 +5,16 @@
   li {
     display: flex;
     align-items: center;
+
+    background: rgba(255, 255, 255, 0.6);
+    margin-bottom: 1em;
   }
 
   figure {
     display: inline-block;
     text-align: center;
-    width: 13ch;
+    width: 9ch;
+    min-width: 9ch;
 
     img {
       margin: 0 auto;
@@ -29,17 +33,21 @@
     display: flex;
 
     .gift {
-      flex: 1 1 0;
+      flex-grow: 1;
+      flex-shrink: 1;
+      flex-basis: 20px;
       max-height: 9em;
+      margin-right: 1em;
     }
 
     .gift-list {
-      max-height: 100%;
+      max-height: calc(100% - 2em);
       overflow-y: auto;
     }
 
     img {
       max-width: 1.5em;
+      max-height: 1.5em;
       height: auto;
       margin-right: 0.5em;
     }
